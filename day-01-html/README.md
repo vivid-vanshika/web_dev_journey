@@ -18,7 +18,7 @@ A simple webpage using HTML that includes:
 
 ## 📸 Preview
 
-![Preview](preview.png)
+![Preview](day-01-html/preview.png)
 
 💡 Key Takeaway
 
