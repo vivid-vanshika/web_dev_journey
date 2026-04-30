@@ -1,66 +1,80 @@
-Day 1 – HTML Basics, Lists & Forms 🚀
-📚 What I Learned
-Basic structure of an HTML page (<!DOCTYPE html>, <html>, <head>, <body>)
-Headings, paragraphs, and text formatting (<h1>, <p>, <b>, <mark>)
-Adding links using <a>
-Creating lists using <ul> and <li>
-Building forms with multiple input types
-💻 Project: Personal Intro Webpage
+# Day 1 – HTML Basics, Lists & Forms 🚀
+
+## 📚 What I Learned
+
+- Basic structure of an HTML page (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
+- Headings, paragraphs, and text formatting (`<h1>`, `<p>`, `<b>`, `<mark>`)
+- Creating lists using `<ul>` and `<li>`
+- Adding links using `<a>`
+- Building forms with different input types
+
+---
+
+## 💻 Project: Personal Intro Webpage
 
 Created a simple personal webpage that includes:
 
-Introduction section
-About me
-Interests list
-Social media links
-Interactive form
-🧠 Key Concepts Used
-🔹 Text & Formatting
-<h1>Welcome to My First Webpage</h1>
-<p>This is a <b>simple</b> webpage with <mark>highlighted</mark> text.</p>
-🔹 Lists
-<ul>
-  <li>Web development</li>
-  <li>UI/UX design</li>
-</ul>
-🔹 Links
-<a href="https://www.instagram.com/">Instagram</a>
-🔹 Forms (Major Focus)
+- Introduction section  
+- About Me section  
+- Interests list  
+- Social media links  
+- Interactive form  
 
-Used different types of inputs:
+---
 
-<input type="text">
-<input type="email">
-<input type="password">
-<input type="date">
-<input type="radio">
-<input type="checkbox">
-<select>
-<textarea></textarea>
+## 🧠 Key Concepts Used
 
-👉 Built a complete form with:
+### 🔹 Text & Formatting
+- Used headings and paragraphs to structure content  
+- Highlighted text using `<mark>`  
+- Bold text using `<b>`  
 
-Name, Email, Password
-Phone number & Date of Birth
-Gender selection (radio buttons)
-Interests (checkboxes)
-Dropdown (semester selection)
-Message box
-Submit button
+### 🔹 Lists
+- Created an unordered list to display interests  
 
-🚀 Output Preview
+### 🔹 Links
+- Added clickable links for Instagram and LinkedIn  
+
+### 🔹 Forms (Main Focus)
+
+Built a complete form using:
+
+- Text input (Name)  
+- Email input  
+- Password input  
+- Phone number input  
+- Date picker  
+- Radio buttons (Gender selection)  
+- Checkboxes (Interests)  
+- Dropdown (Semester selection)  
+- Textarea (Message box)  
+- Submit button  
+
+---
+
+## 🚀 Output Preview
+
 ![Preview](preview.png)
 
-📁 Files Included
-index.html – Main webpage
-preview.png – Screenshot of output
-README.md – Documentation
+---
 
-🔥 What Makes This Strong
-Not just static content — includes a fully functional form
-Covers multiple HTML concepts in one project
-Good structure for a beginner portfolio page
+## 📁 Files Included
 
-📈 Progress
-Day 1 complete ✅
-Built a strong foundation in HTML structure and forms.
+- `index.html` – Main webpage  
+- `preview.png` – Screenshot of output  
+- `README.md` – Documentation  
+
+---
+
+## 🔥 Key Takeaways
+
+- Learned how to structure a basic webpage  
+- Gained hands-on experience with forms  
+- Understood how different HTML elements work together  
+
+---
+
+## 📈 Progress
+
+Day 1 complete ✅  
+Built a strong foundation in HTML basics and forms.
