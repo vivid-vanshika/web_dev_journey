@@ -1,146 +1,61 @@
-\# Day 2 – HTML Tables (Colspan \& Rowspan) 📊
+# 📅 Day 02 – HTML Tables 📊
 
+## 🚀 What I Learned
 
+Today I focused on creating and structuring **HTML Tables**.
 
-\## 📚 What I Learned
+### 📌 Key Concepts Covered
 
+* Creating tables using `<table>`
+* Adding rows with `<tr>`
+* Adding data cells using `<td>`
+* Using `<th>` for table headings
+* Merging cells using:
 
+  * `colspan` (merge columns)
+  * `rowspan` (merge rows)
+* Structuring complex tables with multiple sections
 
-\- Creating tables using `<table>`, `<tr>`, `<th>`, and `<td>`
+---
 
-\- Structuring rows and columns effectively
+## 💻 What I Built
 
-\- Using `colspan` to merge multiple columns
+A **Departmental Weekly Timetable** using HTML tables which includes:
 
-\- Using `rowspan` to merge multiple rows
+* Multiple rows and columns
+* Merged cells using `rowspan` and `colspan`
+* Time-based scheduling format
+* Organized subject distribution across weekdays
 
-\- Building complex table layouts
+---
 
+## 🧠 Key Takeaways
 
+* Tables are useful for representing structured data clearly
+* `rowspan` and `colspan` help in designing complex layouts
+* Proper use of table tags improves readability
 
-\---
+---
 
+## 📂 Files in This Folder
 
+* `index.html` → Contains the HTML table implementation
 
-\## 💻 Project: Departmental Weekly Timetable
+---
 
+## 🔄 Progress
 
+✔️ Day 01 – HTML Basics
+✔️ Day 02 – HTML Tables
+⏳ Day 03 – Coming Soon...
 
-Created a structured weekly timetable using advanced HTML table concepts.
+---
 
+## 💡 Reflection
 
+Creating this timetable helped me understand how powerful HTML tables are for organizing real-world data like schedules.
 
-\---
+---
 
-
-
-\## 🧠 Key Concepts Used
-
-
-
-\### 🔹 Basic Table Structure
-
-\- Organized data into rows and columns using table elements
-
-
-
-\### 🔹 Colspan (Merging Columns)
-
-\- Used to combine multiple columns under a single heading  
-
-\- Example: Grouping sections under each day  
-
-
-
-\### 🔹 Rowspan (Merging Rows)
-
-\- Used when a subject spans multiple time slots  
-
-\- Helps in representing continuous sessions  
-
-
-
-\### 🔹 Combined Usage
-
-\- Applied both `rowspan` and `colspan` together  
-
-\- Used for longer sessions and project blocks  
-
-
-
-\---
-
-
-
-\## 🚀 Features of the Table
-
-
-
-\- Multi-level headings (Days + Sections)
-
-\- Combination of theory, labs, and electives
-
-\- Merged cells for better structure and readability
-
-\- Full-width row for \*\*Lunch Break\*\*
-
-\- Real-world timetable layout
-
-
-
-\---
-
-
-
-\## 🚀 Output Preview
-
-
-
-!\[Preview](preview.png)
-
-
-
-\---
-
-
-
-\## 📁 Files Included
-
-
-
-\- `index.html` – Contains the timetable structure  
-
-\- `preview.png` – Screenshot of output  
-
-\- `README.md` – Documentation  
-
-
-
-\---
-
-
-
-\## 🔥 Key Takeaways
-
-
-
-\- Learned how to design complex tables  
-
-\- Improved understanding of table structuring  
-
-\- Gained confidence using `colspan` and `rowspan` together  
-
-
-
-\---
-
-
-
-\## 📈 Progress
-
-
-
-Day 2 complete ✅  
-
-Now comfortable building structured and complex HTML tables.
+### ✨ “Consistency builds clarity.”
 

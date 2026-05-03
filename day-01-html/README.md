@@ -77,4 +77,4 @@ Built a complete form using:
 ## 📈 Progress
 
 Day 1 complete ✅  
-Built a strong foundation in HTML basics and forms.
+Built a strong foundation in HTML basics and forms!
