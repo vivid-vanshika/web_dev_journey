@@ -1,21 +1,21 @@
-# Day 07 – Navbar & Landing Page 🌸
+# Day 08 – Responsive Portfolio 🌸
 
 ## 📚 What I Learned
-- Sticky navbar using `position: sticky` and `top: 0`
-- Flexbox for navbar layout with `justify-content: space-between`
-- Hover effects using `transition` and `transform: scale()`
-- Card lift effect with `translateY()` and `box-shadow`
-- Responsive design with `@media (max-width: 768px)`
-- Consistent color theming using a pink palette throughout
+- Building a full responsive portfolio layout from scratch
+- Sticky navbar with flexbox navigation
+- Hero section with large heading and call-to-action button
+- Project cards with hover lift effect using `translateY()` and `box-shadow`
+- `flex-wrap` to allow cards to wrap on smaller screens
+- Mobile-first responsive design using `@media (max-width: 768px)`
 
 ## 🛠️ What I Built
-A pink-themed landing page with:
+A pink-themed responsive portfolio page with:
 - Sticky navbar with logo and nav links
-- Hero section with heading, subtext and CTA button
+- Hero section with heading, tagline and CTA button
 - About section
-- Hoverable feature cards with shadow effects
+- Project cards with smooth hover animations
 - Footer
-- Fully responsive layout for mobile screens
+- Fully responsive layout that adapts to mobile screens
 
 ## 📸 Preview
 
@@ -25,4 +25,5 @@ A pink-themed landing page with:
 </p>
 
 ## 💡 Key Takeaway
-`position: sticky` keeps the navbar visible while scrolling without taking it out of the document flow — unlike `position: fixed`. Combining `transition` with `transform` makes hover animations smooth and satisfying.
+`flex-wrap: wrap` is essential for responsive card grids — it lets cards naturally flow to the next line instead of overflowing. Combined with `@media` queries, you can completely reshape the layout for mobile without writing separate CSS files.
+
