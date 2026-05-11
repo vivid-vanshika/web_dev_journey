@@ -45,6 +45,11 @@ Become a proficient full-stack MERN developer by building real projects and cons
 | Day 01 | HTML structure, lists & forms | [day-01-html](./day-01-html) |
 | Day 02 | HTML tables, colspan & rowspan | [day-02-html](./day-02-html) |
 | Day 03 | Advanced HTML tags & multimedia | [day-03-html](./day-03-html) |
+| Day 04 | CSS Basics | [day-04-CSS](./day-04-CSS) |
+| Day 05 | CSS Box model and Card UI | [day-05-CSS](./day-05-CSS) |
+| Day 06 | CSS Flexbox Card Layout | [day-06-CSS](./day-06-CSS) |
+| Day 07 | CSS Navbar Landing Page | [day-07-CSS](./day-07-CSS) |
+| Day 08 | CSS Sample responive portfolio | [day-08-CSS](./day-08-CSS) |
 
 ---
 
