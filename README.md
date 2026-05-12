@@ -50,6 +50,7 @@ Become a proficient full-stack MERN developer by building real projects and cons
 | Day 06 | CSS Flexbox Card Layout | [day-06-CSS](./day-06-CSS) |
 | Day 07 | CSS Navbar Landing Page | [day-07-CSS](./day-07-CSS) |
 | Day 08 | CSS Sample responive portfolio | [day-08-CSS](./day-08-CSS) |
+| Day 09 | CSS Grid | [day-09-CSS](./day-09-CSS) |
 
 ---
 
